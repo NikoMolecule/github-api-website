@@ -1,4 +1,4 @@
-# Github-Api-Website
+# Github-Api-Website ![](https://img.shields.io/badge/github--api--website-v1.0.0--stable-blue)
 
 Hello, i made my first API project. I made this project to improve knowlage with Fetch and Async JS
 
