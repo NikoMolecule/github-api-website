@@ -20,7 +20,7 @@ button.addEventListener('click', (e) => {
     .then(data => {
         if(data.message == "Not Found"){
             githubDisplayer.innerText = `Username: \nFollowers: \nFollowing: \n Respositories: `
-            image.src = "/assets/Info_non-talk.svg.png"
+            image.src = "./assets/Info_non-talk.svg.png"
             errorP.innerText = "Error! User is not found, try a correct name"
         } else {
             imageNode.appendChild(image)
